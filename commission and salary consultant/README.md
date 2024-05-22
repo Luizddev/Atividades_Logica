@@ -1,6 +1,8 @@
 <h1>Cálculo do Salário Final de um Vendedor de Carros Usados </h1>
+
+
 <h2>Descrição</h2>
-<p></p>Este programa faz parte de atividades apresentada pelos professores do SENAI Betim, atividade feita com conceitos básicos aprendido em um curto período na matéria de Lógica de Programação </p>
+<p></p>Este programa faz parte de atividades apresentado pelos instrutores do <a href="https://www.fiemg.com.br/unidades/senai-betim-maria-madalena-nogueira/">SENAI Betim</a>, atividade feita com conceitos básicos aprendido em um curto período na matéria de Lógica de Programação, neste exemplo o instrutor apresentou um problema para resolução de uma consulta de comissão e salário de um funcionario fictício.</p>
 
 <h2>Funcionalidades</h2>
 
