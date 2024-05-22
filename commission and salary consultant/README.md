@@ -4,7 +4,7 @@
 <h2>Descrição</h2>
 <p></p>Este programa faz parte de atividades apresentado pelos instrutores do <a href="https://www.fiemg.com.br/unidades/senai-betim-maria-madalena-nogueira/">SENAI Betim</a>, atividade feita com conceitos básicos aprendido em um curto período na matéria de Lógica de Programação, neste exemplo o instrutor apresentou um problema para resolução de uma consulta de comissão e salário de um funcionario fictício.</p>
 
-<img src="../.github/example.png" alt="Image Example" width="400px">
+<img src="https://github.com/Luizddev/programming-logic-learning-projects/issues/1#issue-2311150339" alt="#" width="400px">
 
 <h2>Funcionalidades</h2>
 
