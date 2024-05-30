@@ -42,4 +42,4 @@ Este projeto foi desenvolvido como parte de um exercício de lógica de programa
 
 ## Licença
 
-Este projeto é livre para uso educacional e pode ser modificado e distribuído conforme necessário.
+Este projeto é livre para uso educacional e pode ser modificado e distribuído conforme necessário
