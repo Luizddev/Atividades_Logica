@@ -12,11 +12,11 @@ Cada parte do projeto está organizada em subdiretórios ou arquivos individuais
    ```bash
    git clone https://github.com/Luizddev/programming-logic-learning-projects.git
    ```
-2. **Navegue até a Parte Desejada:**
+2. **Navegue até o projeto Desejada:**
    ```bash
-   cd programming-logic-learning-projects/Parte-x
+   cd programming-logic-learning-projects/x
    ```
-   Substitua `x` pelo número da parte que deseja acessar.
+   Substitua `x` pelo nome do projeto que deseja acessar.
 
 3. **Abra o Arquivo no Portugol Studio:**
    - Inicie o Portugol Studio.
