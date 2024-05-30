@@ -1,4 +1,4 @@
-<h1>Cálculo do Salário Final de um Vendedor de Carros Usados </h1>
+<h1>Cálculo do Salário Final de um Vendedor de Carros </h1>
 
 
 <h2>Descrição</h2>
