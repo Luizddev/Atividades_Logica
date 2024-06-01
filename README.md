@@ -1,4 +1,4 @@
-# Projeto de Prática de Lógica de Programação
+# Projetos de Prática de Lógica de Programação
 
 ## Descrição
 
