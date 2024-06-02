@@ -32,7 +32,7 @@ Este projeto é uma prática de lógica de programação desenvolvida em Portugo
 Para executar o programa, siga os passos abaixo:
 
 1. Abra o Portugol Studio.
-2. Carregue o arquivo `Parte 5.por` no Portugol Studio.
+2. Carregue o arquivo `Calculadora de Frete.por` no Portugol Studio.
 3. Execute o programa.
 4. Siga as instruções na tela para inserir a distância e escolher a opção de entrega.
 
